@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 656b05a1da805094d8df75ac8c95df5b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ant
+    100002: Antenna_L
+    100004: Antenna_L_001
+    100006: Antenna_L_002
+    100008: Antenna_L_003
+    100010: Antenna_R
+    100012: Antenna_R_001
+    100014: Antenna_R_002
+    100016: Antenna_R_003
+    100018: //RootNode
+    100020: Armature
+    100022: Head
+    100024: LowerLeg_L
+    100026: LowerLeg_L_001
+    100028: LowerLeg_L_002
+    100030: LowerLeg_L_003
+    100032: LowerLeg_L_004
+    100034: LowerLeg_R
+    100036: LowerLeg_R_001
+    100038: LowerLeg_R_002
+    100040: LowerLeg_R_003
+    100042: LowerLeg_R_004
+    100044: MiddleLeg_L
+    100046: MiddleLeg_L_001
+    100048: MiddleLeg_L_002
+    100050: MiddleLeg_L_003
+    100052: MiddleLeg_L_004
+    100054: MiddleLeg_R
+    100056: MiddleLeg_R_001
+    100058: MiddleLeg_R_002
+    100060: MiddleLeg_R_003
+    100062: MiddleLeg_R_004
+    100064: Pincher_L
+    100066: Pincher_L_001
+    100068: Pincher_R
+    100070: Pincher_R_001
+    100072: Spine
+    100074: Spine_001
+    100076: Spine_002
+    100078: Spine_003
+    100080: UpperLeg_L
+    100082: UpperLeg_L_001
+    100084: UpperLeg_L_002
+    100086: UpperLeg_L_003
+    100088: UpperLeg_L_004
+    100090: UpperLeg_R
+    100092: UpperLeg_R_001
+    100094: UpperLeg_R_002
+    100096: UpperLeg_R_003
+    100098: UpperLeg_R_004
+    400000: Ant
+    400002: Antenna_L
+    400004: Antenna_L_001
+    400006: Antenna_L_002
+    400008: Antenna_L_003
+    400010: Antenna_R
+    400012: Antenna_R_001
+    400014: Antenna_R_002
+    400016: Antenna_R_003
+    400018: //RootNode
+    400020: Armature
+    400022: Head
+    400024: LowerLeg_L
+    400026: LowerLeg_L_001
+    400028: LowerLeg_L_002
+    400030: LowerLeg_L_003
+    400032: LowerLeg_L_004
+    400034: LowerLeg_R
+    400036: LowerLeg_R_001
+    400038: LowerLeg_R_002
+    400040: LowerLeg_R_003
+    400042: LowerLeg_R_004
+    400044: MiddleLeg_L
+    400046: MiddleLeg_L_001
+    400048: MiddleLeg_L_002
+    400050: MiddleLeg_L_003
+    400052: MiddleLeg_L_004
+    400054: MiddleLeg_R
+    400056: MiddleLeg_R_001
+    400058: MiddleLeg_R_002
+    400060: MiddleLeg_R_003
+    400062: MiddleLeg_R_004
+    400064: Pincher_L
+    400066: Pincher_L_001
+    400068: Pincher_R
+    400070: Pincher_R_001
+    400072: Spine
+    400074: Spine_001
+    400076: Spine_002
+    400078: Spine_003
+    400080: UpperLeg_L
+    400082: UpperLeg_L_001
+    400084: UpperLeg_L_002
+    400086: UpperLeg_L_003
+    400088: UpperLeg_L_004
+    400090: UpperLeg_R
+    400092: UpperLeg_R_001
+    400094: UpperLeg_R_002
+    400096: UpperLeg_R_003
+    400098: UpperLeg_R_004
+    2100000: Ant
+    4300000: Ant
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: Ant
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

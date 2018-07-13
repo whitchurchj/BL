@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: b2bf53218e94b6f44bb102c1582cbcf8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Eye L
+    100002: Eye R
+    100004: Female
+    100006: Female Hair Back
+    100008: Female Hair Back02
+    100010: Female Hair Front
+    100012: Female Head
+    100014: Female Jaw
+    100016: Female L Calf
+    100018: Female L Clavicle
+    100020: Female L Eyebrow
+    100022: Female L Finger0
+    100024: Female L Finger01
+    100026: Female L Finger02
+    100028: Female L Finger1
+    100030: Female L Finger11
+    100032: Female L Finger12
+    100034: Female L Finger2
+    100036: Female L Finger21
+    100038: Female L Finger22
+    100040: Female L Finger3
+    100042: Female L Finger31
+    100044: Female L Finger32
+    100046: Female L Finger4
+    100048: Female L Finger41
+    100050: Female L Finger42
+    100052: Female L Foot
+    100054: Female L Forearm
+    100056: Female L ForeTwist
+    100058: Female L Hand
+    100060: Female L Lower Eyelid
+    100062: Female L LowerLip
+    100064: Female L Thigh
+    100066: Female L Toe0
+    100068: Female L Upper Eyelid
+    100070: Female L UpperArm
+    100072: Female L UpperLip
+    100074: Female LC LowerLip
+    100076: Female LC UpperLip
+    100078: Female Neck
+    100080: Female Pelvis
+    100082: Female R Calf
+    100084: Female R Clavicle
+    100086: Female R Eyebrow
+    100088: Female R Finger0
+    100090: Female R Finger01
+    100092: Female R Finger02
+    100094: Female R Finger1
+    100096: Female R Finger11
+    100098: Female R Finger12
+    100100: Female R Finger2
+    100102: Female R Finger21
+    100104: Female R Finger22
+    100106: Female R Finger3
+    100108: Female R Finger31
+    100110: Female R Finger32
+    100112: Female R Finger4
+    100114: Female R Finger41
+    100116: Female R Finger42
+    100118: Female R Foot
+    100120: Female R Forearm
+    100122: Female R ForeTwist
+    100124: Female R Hand
+    100126: Female R Lower Eyelid
+    100128: Female R LowerLip
+    100130: Female R Thigh
+    100132: Female R Toe0
+    100134: Female R Upper Eyelid
+    100136: Female R UpperArm
+    100138: Female R UpperLip
+    100140: Female RC LowerLip
+    100142: Female RC UpperLip
+    100144: Female Spine
+    100146: Female Spine1
+    100148: Female Tongue
+    100150: Female Tongue02
+    100152: //RootNode
+    100154: Female Underwear
+    100156: Female Warrior Hair
+    400000: Eye L
+    400002: Eye R
+    400004: Female
+    400006: Female Hair Back
+    400008: Female Hair Back02
+    400010: Female Hair Front
+    400012: Female Head
+    400014: Female Jaw
+    400016: Female L Calf
+    400018: Female L Clavicle
+    400020: Female L Eyebrow
+    400022: Female L Finger0
+    400024: Female L Finger01
+    400026: Female L Finger02
+    400028: Female L Finger1
+    400030: Female L Finger11
+    400032: Female L Finger12
+    400034: Female L Finger2
+    400036: Female L Finger21
+    400038: Female L Finger22
+    400040: Female L Finger3
+    400042: Female L Finger31
+    400044: Female L Finger32
+    400046: Female L Finger4
+    400048: Female L Finger41
+    400050: Female L Finger42
+    400052: Female L Foot
+    400054: Female L Forearm
+    400056: Female L ForeTwist
+    400058: Female L Hand
+    400060: Female L Lower Eyelid
+    400062: Female L LowerLip
+    400064: Female L Thigh
+    400066: Female L Toe0
+    400068: Female L Upper Eyelid
+    400070: Female L UpperArm
+    400072: Female L UpperLip
+    400074: Female LC LowerLip
+    400076: Female LC UpperLip
+    400078: Female Neck
+    400080: Female Pelvis
+    400082: Female R Calf
+    400084: Female R Clavicle
+    400086: Female R Eyebrow
+    400088: Female R Finger0
+    400090: Female R Finger01
+    400092: Female R Finger02
+    400094: Female R Finger1
+    400096: Female R Finger11
+    400098: Female R Finger12
+    400100: Female R Finger2
+    400102: Female R Finger21
+    400104: Female R Finger22
+    400106: Female R Finger3
+    400108: Female R Finger31
+    400110: Female R Finger32
+    400112: Female R Finger4
+    400114: Female R Finger41
+    400116: Female R Finger42
+    400118: Female R Foot
+    400120: Female R Forearm
+    400122: Female R ForeTwist
+    400124: Female R Hand
+    400126: Female R Lower Eyelid
+    400128: Female R LowerLip
+    400130: Female R Thigh
+    400132: Female R Toe0
+    400134: Female R Upper Eyelid
+    400136: Female R UpperArm
+    400138: Female R UpperLip
+    400140: Female RC LowerLip
+    400142: Female RC UpperLip
+    400144: Female Spine
+    400146: Female Spine1
+    400148: Female Tongue
+    400150: Female Tongue02
+    400152: Female Underwear
+    400154: //RootNode
+    400156: Female Warrior Hair
+    2100000: 'Material #0'
+    2100002: 07 - Default
+    2100004: 09 - Default
+    2300000: Eye L
+    2300002: Eye R
+    3300000: Eye L
+    3300002: Eye R
+    4300000: Eye L
+    4300002: Eye R
+    4300004: Female Warrior Hair
+    4300006: Female Underwear
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Female Underwear
+    13700002: Female Warrior Hair
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

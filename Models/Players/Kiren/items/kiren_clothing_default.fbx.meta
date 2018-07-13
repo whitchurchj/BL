@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 68d3562f4c3cc99409783ef319bbe3ab
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Male
+    100004: Male Hair Back L
+    100006: Male Hair Back L_end
+    100008: Male Hair Back R
+    100010: Male Hair Back R_end
+    100012: Male Hair Front
+    100014: Male Hair Front_end
+    100016: Male Hair Side L
+    100018: Male Hair Side L_end
+    100020: Male Hair Side R
+    100022: Male Hair Side R_end
+    100024: Male Head
+    100026: Male Jaw
+    100028: Male L Calf
+    100030: Male L Clavicle
+    100032: Male L Eyebrow
+    100034: Male L Eyebrow_end
+    100036: Male L Finger0
+    100038: Male L Finger01
+    100040: Male L Finger02
+    100042: Male L Finger02_end
+    100044: Male L Finger1
+    100046: Male L Finger11
+    100048: Male L Finger12
+    100050: Male L Finger12_end
+    100052: Male L Finger2
+    100054: Male L Finger21
+    100056: Male L Finger22
+    100058: Male L Finger22_end
+    100060: Male L Finger3
+    100062: Male L Finger31
+    100064: Male L Finger32
+    100066: Male L Finger32_end
+    100068: Male L Finger4
+    100070: Male L Finger41
+    100072: Male L Finger42
+    100074: Male L Finger42_end
+    100076: Male L Foot
+    100078: Male L Forearm
+    100080: Male L ForeTwist
+    100082: Male L ForeTwist_end
+    100084: Male L Hand
+    100086: Male L Lower Eyelid
+    100088: Male L Lower Eyelid_end
+    100090: Male L LowerLip
+    100092: Male L LowerLip_end
+    100094: Male L Thigh
+    100096: Male L Toe0
+    100098: Male L Toe0_end
+    100100: Male L Upper Eyelid
+    100102: Male L Upper Eyelid_end
+    100104: Male L UpperArm
+    100106: Male L UpperLip
+    100108: Male L UpperLip_end
+    100110: Male LC LowerLip
+    100112: Male LC LowerLip_end
+    100114: Male LC UpperLip
+    100116: Male LC UpperLip_end
+    100118: Male Neck
+    100120: Male Pelvis
+    100122: Male R Calf
+    100124: Male R Clavicle
+    100126: Male R Eyebrow
+    100128: Male R Eyebrow_end
+    100130: Male R Finger0
+    100132: Male R Finger01
+    100134: Male R Finger02
+    100136: Male R Finger02_end
+    100138: Male R Finger1
+    100140: Male R Finger11
+    100142: Male R Finger12
+    100144: Male R Finger12_end
+    100146: Male R Finger2
+    100148: Male R Finger21
+    100150: Male R Finger22
+    100152: Male R Finger22_end
+    100154: Male R Finger3
+    100156: Male R Finger31
+    100158: Male R Finger32
+    100160: Male R Finger32_end
+    100162: Male R Finger4
+    100164: Male R Finger41
+    100166: Male R Finger42
+    100168: Male R Finger42_end
+    100170: Male R Foot
+    100172: Male R Forearm
+    100174: Male R ForeTwist
+    100176: Male R ForeTwist_end
+    100178: Male R Hand
+    100180: Male R Lower Eyelid
+    100182: Male R Lower Eyelid_end
+    100184: Male R LowerLip
+    100186: Male R LowerLip_end
+    100188: Male R Thigh
+    100190: Male R Toe0
+    100192: Male R Toe0_end
+    100194: Male R Upper Eyelid
+    100196: Male R Upper Eyelid_end
+    100198: Male R UpperArm
+    100200: Male R UpperLip
+    100202: Male R UpperLip_end
+    100204: Male RC LowerLip
+    100206: Male RC LowerLip_end
+    100208: Male RC UpperLip
+    100210: Male RC UpperLip_end
+    100212: Male Spine
+    100214: Male Spine1
+    100216: Male Tongue
+    100218: Male Tongue02
+    100220: Male Tongue02_end
+    100222: Male Underwear Mesh.001
+    400000: //RootNode
+    400002: Male
+    400004: Male Hair Back L
+    400006: Male Hair Back L_end
+    400008: Male Hair Back R
+    400010: Male Hair Back R_end
+    400012: Male Hair Front
+    400014: Male Hair Front_end
+    400016: Male Hair Side L
+    400018: Male Hair Side L_end
+    400020: Male Hair Side R
+    400022: Male Hair Side R_end
+    400024: Male Head
+    400026: Male Jaw
+    400028: Male L Calf
+    400030: Male L Clavicle
+    400032: Male L Eyebrow
+    400034: Male L Eyebrow_end
+    400036: Male L Finger0
+    400038: Male L Finger01
+    400040: Male L Finger02
+    400042: Male L Finger02_end
+    400044: Male L Finger1
+    400046: Male L Finger11
+    400048: Male L Finger12
+    400050: Male L Finger12_end
+    400052: Male L Finger2
+    400054: Male L Finger21
+    400056: Male L Finger22
+    400058: Male L Finger22_end
+    400060: Male L Finger3
+    400062: Male L Finger31
+    400064: Male L Finger32
+    400066: Male L Finger32_end
+    400068: Male L Finger4
+    400070: Male L Finger41
+    400072: Male L Finger42
+    400074: Male L Finger42_end
+    400076: Male L Foot
+    400078: Male L Forearm
+    400080: Male L ForeTwist
+    400082: Male L ForeTwist_end
+    400084: Male L Hand
+    400086: Male L Lower Eyelid
+    400088: Male L Lower Eyelid_end
+    400090: Male L LowerLip
+    400092: Male L LowerLip_end
+    400094: Male L Thigh
+    400096: Male L Toe0
+    400098: Male L Toe0_end
+    400100: Male L Upper Eyelid
+    400102: Male L Upper Eyelid_end
+    400104: Male L UpperArm
+    400106: Male L UpperLip
+    400108: Male L UpperLip_end
+    400110: Male LC LowerLip
+    400112: Male LC LowerLip_end
+    400114: Male LC UpperLip
+    400116: Male LC UpperLip_end
+    400118: Male Neck
+    400120: Male Pelvis
+    400122: Male R Calf
+    400124: Male R Clavicle
+    400126: Male R Eyebrow
+    400128: Male R Eyebrow_end
+    400130: Male R Finger0
+    400132: Male R Finger01
+    400134: Male R Finger02
+    400136: Male R Finger02_end
+    400138: Male R Finger1
+    400140: Male R Finger11
+    400142: Male R Finger12
+    400144: Male R Finger12_end
+    400146: Male R Finger2
+    400148: Male R Finger21
+    400150: Male R Finger22
+    400152: Male R Finger22_end
+    400154: Male R Finger3
+    400156: Male R Finger31
+    400158: Male R Finger32
+    400160: Male R Finger32_end
+    400162: Male R Finger4
+    400164: Male R Finger41
+    400166: Male R Finger42
+    400168: Male R Finger42_end
+    400170: Male R Foot
+    400172: Male R Forearm
+    400174: Male R ForeTwist
+    400176: Male R ForeTwist_end
+    400178: Male R Hand
+    400180: Male R Lower Eyelid
+    400182: Male R Lower Eyelid_end
+    400184: Male R LowerLip
+    400186: Male R LowerLip_end
+    400188: Male R Thigh
+    400190: Male R Toe0
+    400192: Male R Toe0_end
+    400194: Male R Upper Eyelid
+    400196: Male R Upper Eyelid_end
+    400198: Male R UpperArm
+    400200: Male R UpperLip
+    400202: Male R UpperLip_end
+    400204: Male RC LowerLip
+    400206: Male RC LowerLip_end
+    400208: Male RC UpperLip
+    400210: Male RC UpperLip_end
+    400212: Male Spine
+    400214: Male Spine1
+    400216: Male Tongue
+    400218: Male Tongue02
+    400220: Male Tongue02_end
+    400222: Male Underwear Mesh.001
+    2100000: 01 - Default
+    4300000: Male Underwear Mesh.001
+    7400000: Male|Male|Take 001|BaseLayer
+    9500000: //RootNode
+    13700000: Male Underwear Mesh.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
